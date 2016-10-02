@@ -4,7 +4,7 @@ email:       fabianoleittes@gmail.com
 author:      Fabiano Leite
 description: "Software, Engineer, Developer, Ruby, Rails, Golang, OOP, SOLID, BDD, TDD, Web"
 baseurl:     ""
-url:         "http://fabianoleittes.github.io"
+url:         "https://fabianoleittes.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
