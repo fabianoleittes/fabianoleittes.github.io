@@ -17,6 +17,6 @@ I'm in a constantly search for better practices and also experimenting new thing
 
 I have a technical leadership profile with experience in creating web applications and RESTful API's.
 
-Knowledge on design patterns, clean code, testing, refactoring techniques.
+I have knowledge on design patterns, clean code, testing, refactoring techniques.
 
 ###### Wanna talk about something? Want to hire me? Looking for a consultant? [Say Hello.](/contact)
