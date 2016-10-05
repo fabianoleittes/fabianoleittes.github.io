@@ -9,15 +9,19 @@
   word-break: break-word;
   display: block;
   font-size: 1.5em;
-  color: red;
+  color: #1565C0;
 }
 
 .post a:hover {
-  border-color: red;
+  border-color: #1565C0;
+}
+
+.post-header {
+  display: none;
 }
 .post a {
   text-decoration: none;
-  border-bottom: 2px solid #fcc;
+  border-bottom: 2px solid #E3F2FD;
   -webkit-transition: border-color 0.2s ease;
   -moz-transition: border-color 0.2s ease;
   -ms-transition: border-color 0.2s ease;
