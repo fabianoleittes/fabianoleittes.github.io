@@ -1,8 +1,9 @@
 ---
 layout: post
-title: hello world
+title: Hello World
 date: 2016-10-02 01:56
 categories:
+summary: I'll talk a little about my experiences on being a software engineer.
 ---
 
 Hello folks!!
