@@ -6,9 +6,9 @@ tags: about
 ---
 ## Let's change the world together?
 
-In the last six years specifically I have worked with ruby/rails and your stack.
+In the last six years specifically I've worked with ruby/rails and your stack.
 
-I have helped companies and startups to assemble teams, build products and launch them.
+I've helped companies and startups to assemble teams, build products and launch them.
 
 Here, some companies/startups I had the honor to work, [CompanyWeb](http://www.companyweb.com.br),
 [Digital Pages](http://digitalpages.com.br), [Buscapé Company](http://www.buscapecompany.com), [WebPesados](http://webpesados.com.br), [Fundação Estudar](https://www.estudar.org.br),

@@ -5,6 +5,9 @@ date: 2016-10-02 01:56
 categories:
 ---
 
-Fala pessoal, blz? Bem vindo ao meu blog!!
+Hello folks!!
+-------------
 
-Pretendo falar aqui um pouco das tecnologias que tenho trabalhado e algumas que ando estudando também.
+I'll talk a little about my experiences on being a software engineer.
+
+Here I will speak either English or Portuguese which is my native language.
