@@ -8,9 +8,9 @@ tags: about
 
 In the last six years specifically I've worked with ruby/rails and your stack.
 
-I've helped companies and startups to assemble teams, build products and launch them.
+I have helped companies and startups to assemble teams, build products and launch them.
 
-Here, some companies/startups I had the honor to work, [CompanyWeb](http://www.companyweb.com.br),
+Here, some companies/startups I had the honor at work, [CompanyWeb](http://www.companyweb.com.br),
 [Digital Pages](http://digitalpages.com.br), [Buscapé Company](http://www.buscapecompany.com), [WebPesados](http://webpesados.com.br), [Fundação Estudar](https://www.estudar.org.br),
 [Walmart](https://www.walmart.com.br),
 [WallJobs](http://www.walljobs.com.br/), [Move2](http://move2.com.br).

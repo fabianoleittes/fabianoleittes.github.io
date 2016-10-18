@@ -15,8 +15,8 @@ Working with a lot of different technologies, specifications and frameworks, mot
 
 I'm in a constantly search for better practices and also experimenting new things.
 
-I've a technical leadership profile with experience in creating web applications and RESTful API's.
+I have a technical leadership profile with experience in creating web applications and RESTful API's.
 
-I've good knowledge on design patterns, clean code, testing, refactoring techniques.
+I have good knowledge on design patterns, clean code, testing, refactoring techniques.
 
 ###### Wanna talk about something? Want to hire me? Looking for a consultant? [Say Hello.](/contact)
