@@ -7,7 +7,7 @@ tags: about
 
 ##  Fine, I’ll admit it: I’m Fabiano Leite.
 
-I'm a software engineer from Brazil who lives in São Paulo.
+<img src='/images/me.jpeg' class='headshot' width="256px"> I'm a software engineer from Brazil who lives in São Paulo, with 10+ years of experience.
 
 You can find me [on Twitter](https://twitter.com/fabianoleittes), [on GitHub](https://github.com/fabianoleittes), [on AngelList](https://angel.co/fabianoleittes), [on Linkedin](https://www.linkedin.com/in/fabianoleittes/en) and [on Instagram](https://instagram.com/fabianoleittes).
 
