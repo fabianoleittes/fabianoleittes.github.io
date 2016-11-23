@@ -24,3 +24,29 @@
   position: relative;
   top: 0.1em;
 }
+
+.br-icon::after,
+.us-icon::after {
+  content: '';
+  position: static;
+  display: inline-block;
+  width: .7em;
+  height: .7em;
+  margin-left: .25em;
+  background-repeat: no-repeat;
+  background-position: 0 3px;
+  background-size: .7em .7em;
+}
+
+.br-icon::after {
+  background-image: url('/images/icons/br.svg');
+}
+
+.us-icon::after {
+  background-image: url('/images/icons/us.svg');
+}
+
+.headshot {
+  float: left;
+  margin-right: 1em;
+}

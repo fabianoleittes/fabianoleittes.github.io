@@ -4,6 +4,7 @@ title: Using PostgreSQL UUIDs as primary keys with Rails 5
 date: 2016-10-31 20:35
 categories: rails5 PostgreSQL UUIDs
 summary: You can use UUIDs as the primary key on Rails 5 tables in a few simple steps.
+lang: us
 ---
 ## Using PostgreSQL UUIDs as primary keys with Rails 5.
 
