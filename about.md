@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-##  Fine, I’ll admit it: I’m Fabiano Leite.
+## Hi, it's me, FBO, Self-taught hacker.
 
 <img src='/images/me.jpg' class='headshot' width="256px"> I'm a software engineer from Brazil who lives in São Paulo, with 10+ years of experience.
 

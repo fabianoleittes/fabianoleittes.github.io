@@ -12,7 +12,7 @@ I'm a software engineer with 10+ years of experience, with a technical leadershi
 
 I have been helping companies and startups set up teams and build their products and services.
 
-6+ years of experience working with ruby/rails projects.
+8+ years of experience working with ruby/rails projects.
 
 
 ### What can I offer and help?
