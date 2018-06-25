@@ -24,7 +24,7 @@ show_social_icons:    true
 ajaxify_contact_form: true
 enable_mathjax: true
 extended_fonts: true
-enable_anchorjs: true
+enable_anchorjs: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
