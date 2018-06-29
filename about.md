@@ -7,16 +7,18 @@ tags: about
 
 ## Hi, it's me, FBO, Self-taught hacker.
 
-<img src='/images/me.jpg' class='headshot' width="256px"> I'm a software engineer from Brazil who lives in São Paulo, with 10+ years of experience.
+<img src='/images/me.jpg' class='headshot' width="256px"> I’m a software engineer living in São Paulo Brazil. I work on the Agile Coach team at [Sciensa](http://sciensa.com).
 
 You can find me [on Twitter](https://twitter.com/fabianoleittes), [on GitHub](https://github.com/fabianoleittes), [on AngelList](https://angel.co/fabianoleittes), [on Linkedin](https://www.linkedin.com/in/fabianoleittes/en) and [on Instagram](https://instagram.com/fabianoleittes).
 
-Working with a lot of different technologies, specifications and frameworks, motivated to work with challenging and creative projects, that delivers values to the users.
+I’ve been working on tech for the past 10 years, for different kind of companies, from startups to big companies, coordinating people and developing projects.
 
-I'm in a constantly search for better practices and also experimenting new things.
+I’m in a constant search for better practices and also experimenting with new things.
 
-I have a technical leadership profile with experience in creating web applications and RESTful API's.
+I've a technical leadership profile with experience in creating large-scale web applications and RESTful APIs.
 
-I have good knowledge on design patterns, clean code, testing, refactoring techniques.
+I've good knowledge of design patterns, clean code, testing, refactoring techniques and agile methodologies.
+
+I've been using technologies like Ruby, Rails, Go, JavaScript, Ember and React.
 
 ###### Wanna talk about something? Want to hire me? Looking for a consultant? [Say Hello.](/contact)
