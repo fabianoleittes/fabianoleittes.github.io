@@ -11,7 +11,7 @@ tags: about
 
 You can find me [on Twitter](https://twitter.com/fabianoleittes), [on GitHub](https://github.com/fabianoleittes), [on AngelList](https://angel.co/fabianoleittes), [on Linkedin](https://www.linkedin.com/in/fabianoleittes/en) and [on Instagram](https://instagram.com/fabianoleittes).
 
-I've been in the technology industry for over 10 years now and everyday. I learn cool new things that challenge me. Working for different kind of companies, from startups to big companies, coordinating people and developing projects.
+I've been in the technology industry for over 10 years now and every day I learn cool new things that challenge me. Working for different kind of companies, from startups to big companies, coordinating people and developing projects.
 
 I’m in a constant search for better practices and also experimenting with new things.
 
@@ -20,5 +20,4 @@ I've a technical leadership profile with experience in creating large-scale web 
 I've good knowledge of design patterns, clean code, testing, refactoring techniques and agile methodologies.
 
 I've been using technologies like Ruby, Rails, Go, JavaScript, Ember and React.
-
-###### Wanna talk about something? Want to hire me? Looking for a consultant? [Say Hello.](/contact)
+###### Want to talk about something? Want to hire me? Looking for a consultant? [Say Hello.](/contact)
