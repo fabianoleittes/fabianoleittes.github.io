@@ -36,7 +36,7 @@ Do you want to deploy home office culture in your company? I can help;
 
 ### Some companies and startups I've worked with:
 
-[Walmart](https://www.walmart.com.br), [Buscapé Company](http://www.buscapecompany.com), [Sciensa](http://www.sciensa.com), [Porto Serguro](https://www.portoseguro.com.br), [Ativa Investimentos](https://www.ativainvestimentos.com.br), [XP Investimentos](https://investimentos.xpi.com.br/), [CompanyWeb](http://www.companyweb.com.br), [Digital Pages](http://digitalpages.com.br), [WebPesados](http://webpesados.com.br),
+[Walmart](https://www.walmart.com.br), [Buscapé Company](http://www.buscapecompany.com), [Sciensa](http://www.sciensa.com), [Porto Seguro](https://www.portoseguro.com.br), [Ativa Investimentos](https://www.ativainvestimentos.com.br), [XP Investimentos](https://investimentos.xpi.com.br/), [CompanyWeb](http://www.companyweb.com.br), [Digital Pages](http://digitalpages.com.br), [WebPesados](http://webpesados.com.br),
 [Fundação Estudar](https://www.estudar.org.br), [WallJobs](http://www.walljobs.com.br/), [Move2](http://move2.com.br).
 
 I’m [currently available](/contact) for hire on a temporary basis at your company or with your team.
