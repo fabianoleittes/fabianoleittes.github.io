@@ -7,7 +7,7 @@ tags: about
 
 ## Hi, it's me, FBO, Self-taught hacker.
 
-<img src='/images/me.jpg' class='headshot' width="256px"> I’m an Engineering Manager currently working at [Liv Up](livup.com.br) living in São Paulo Brazil.
+<img src='/images/me.jpg' class='headshot' width="256px"> I’m an Engineering Manager currently working at [Liv Up](https://www.livup.com.br) living in São Paulo Brazil.
 
 You can find me [on Twitter](https://twitter.com/fabianoleittes), [on GitHub](https://github.com/fabianoleittes), [on AngelList](https://angel.co/fabianoleittes), [on Linkedin](https://www.linkedin.com/in/fabianoleittes/en) and [on Instagram](https://instagram.com/fabianoleittes).
 
